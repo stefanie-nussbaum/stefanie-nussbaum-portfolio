@@ -2,3 +2,14 @@
   text-align: center;
   background-color: linear-gradient(#444343, #202020);
 }
+
+.footer-container {
+  display: flex;
+  justify-content: center;
+  /* flex-wrap: row wrap; */
+}
+
+.icon {
+  height: 20px;
+  width: auto;
+}
